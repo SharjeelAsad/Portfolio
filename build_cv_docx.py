@@ -76,20 +76,19 @@ doc.add_paragraph(
 add_heading("Experience", level=1)
 
 add_role(
-    "FEA Engineer Intern",
-    "SOCO Engineers GmbH · Germany",
-    [
-        "Performed finite element analysis on structural components; prepared meshes, boundary conditions, and load cases for simulation workflows.",
-        "Evaluated stress, strain, and deformation results; supported design validation and technical reporting for engineering deliverables.",
-    ],
-)
-
-add_role(
     "CFD Analysis Intern",
     "Computational Aeronautics Lab, Islamabad · May 2025 – Present",
     [
         "Simulated full aerodynamics of F1 Ferrari F10 with ANSYS Fluent & OpenFOAM; analyzed drag, lift, and pressure distributions; produced airflow visualizations and technical reports.",
         "Built CAD models, generated meshes, and cross-validated simulation results across both solvers.",
+    ],
+)
+
+add_role(
+    "Head of HR Department",
+    "Peregrine Technologies · Present",
+    [
+        "Leading talent acquisition, team structuring, onboarding, performance evaluation frameworks, and culture development.",
     ],
 )
 
@@ -140,7 +139,7 @@ for name, meta, desc in projects:
 add_heading("Leadership & Roles", level=1)
 
 add_role(
-    "Head of Human Resources",
+    "Head of HR Department",
     "Peregrine Technologies · Present",
     [
         "Leading talent acquisition, team structuring, onboarding, performance evaluation frameworks, and culture development.",
